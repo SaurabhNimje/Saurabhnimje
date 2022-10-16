@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Saurabhnimje
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning Master in Statistics
-- 💞️ I’m looking to collaborate on Google
+- 👋 Hi, I’m @SaurabhNimje
+- 👀 My intereste is increses in AI and Data Visualisation
+- 🌱 I’m completed my Master in Statistics
+- 💞️ I’m become a future Data Scientist
+- 💞️ I am doning my Research simultaneously 
+-  🌱I Love Teaching and Guidances to make a Brightness our Future. 
 
 <!---
 Saurabhnimje/Saurabhnimje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
