@@ -2,7 +2,7 @@
 - 👀 My intereste is increses in AI and Data Visualisation
 - 🌱 I’m completed my Master in Statistics
 - 💞️ I’m become a future Data Scientist
-- 💞️ I am doning my Research simultaneously 
+- 💞️ I am doing my Research simultaneously 
 -  🌱I Love Teaching and Guidances to make a Brightness our Future. 
 
 <!---
